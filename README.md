@@ -132,7 +132,8 @@ SubtitleTranslator/
 - API 密钥属于敏感信息，请勿分享或提交到版本控制系统
 - 翻译质量取决于所选 AI 模型的能力和提示词模板
 - 大批量翻译时请注意 API 配额和费用
+- 首次运行前请安装依赖：`pip install PyQt6 requests`
 
 ## 许可证
 
-本项目仅供学习和个人使用。
+本项目基于 [MIT](LICENSE) 许可证开源。
