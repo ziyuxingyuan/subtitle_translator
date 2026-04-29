@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime data
+data/
+日志.txt
+译后清理*.csv
+/*.jpg
+/*.png
+
+# Config with API keys (created at runtime)
+data/config/user_settings.json
+
+# Test artifacts
+_*/
